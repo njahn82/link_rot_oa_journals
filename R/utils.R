@@ -6,7 +6,10 @@
 #' 
 #' @example jn_status("https://libreas.eu")
 jn_status <- function(u) {
-  req <- httr::GET(u)
+  req <- httr::GET(u, httr::timeout(3))
   out <- httr::http_status(req)
-  dplyr::bind_cols(url = u, dplyr::bind_rows(out))
+  header_df <- dplyr::bind_cols(url = u, dplyr::bind_rows(out))
+  if (is.null(header_df))
+    stop
+  readr::write_csv(header_df, "data/jn_status.csv", append = TRUE)
 }
