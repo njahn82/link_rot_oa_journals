@@ -1,0 +1,1103 @@
+error,tidy_url
+"Error in curl::curl_fetch_memory(url, handle = handle): Operation was aborted by an application callback
+",http://www.izquierdas.cl
+"Error in curl::curl_fetch_memory(url, handle = handle): Operation was aborted by an application callback
+",http://lacolmena.uaemex.mx/
+"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: Connection timed out after 10000 milliseconds
+",http://infociencia.idict.cu
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/attic/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/acdi
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://www.ufrr.br/revista/index.php/agroambiente
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/agrotrop
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/aj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jie/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/anidip/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/aobpla
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://botany.org/apps/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/index.php?journal=ajees&page=index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.publius.us.es/ojs/index.php/araucaria/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/atelie/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.usfq.edu.ec/index.php/avances
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/apl
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs-o.library.ubc.ca/index.php/bctj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/bibliocanto
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/biohorizons
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal-biotika.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/index.php/bgg
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/medicine
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/buletinfisika
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/bse
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/buletinvet
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/cdf
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/cadest/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.cadernos.prodisa.fiocruz.br/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/cakra
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://cjdr.ir/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://cjes.guilan.ac.ir/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/childhood/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/vet/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ce
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ckj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://portalrevistas.ucb.br/index.php/rceucb
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/conphys
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://cefd.uv.es
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/cdn
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/cz
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/database
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uph.edu/index.php/djm
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/desafios/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.unijui.edu.br/index.php/desenvolvimentoemquestao/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jur.puc-rio.br/revistades/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/disertaciones/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/dnaresearch
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.echorespract.com/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://est.cmq.edu.mx/index.php/est/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.uii.ac.id/index.php/jep
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ecotrophic
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ecs
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/eol
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/eot
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/akuntansi
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/kajian
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/manajemen
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/mtk
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/eum
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jurnal.uii.ac.id/index.php/eksakta
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/revistaempauta
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.endocrineconnections.com/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.edmcasereports.com/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/eep
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://read.dukeupress.edu/environmental-humanities
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://portalrevistas.ucb.br/index.php/esf/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ucuenca.edu.ec/ojs/index.php/estoa/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://econeurasia.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ehjcr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ejobsat.cz/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/emph
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/fqs
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/foroele
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/gastro
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.gi-intervention.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/gbe
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/geouerj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.geriatric-care.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/gigascience
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.library.ubc.ca/index.php/hpsj/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/historia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ehps-net.eu/journal
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/hropen
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/imv
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ijog.bgl.esdm.go.id
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://itidjournal.org/itid
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jurnalmahasiswa.unesa.ac.id/index.php/inovasi-fisika-indonesia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/interacao
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ijlct
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ijnp
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jipm.irandoc.ac.ir/index.php?slc_lang=en&sid=1
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'ijcpe.edu.iq'
+",https://ijcpe.edu.iq/index.php/main
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/ritref/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jamiaopen
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jbn
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jeten-online.org/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jncics
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uph.edu/index.php/johme
+"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.jasstudies.com port 443: Connection refused
+",https://www.jasstudies.com/anasayfa.aspx
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jart.guilan.ac.ir/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journals.uis.no/index.php/jcsw
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/cybersecurity
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://edu.msu.ac.th/journal
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jear.it
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jhps
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jhseonline.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jinsectscience
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/integrablesystems
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jipm
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jlb
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jla
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmas
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jrr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/jse
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jscr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jcag
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jes
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jue
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/?journal=jwes
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/?journal=jowset
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jp
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/bio
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jurnal.isi-ska.ac.id/index.php/capture/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jekt
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jepk
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jurnalet.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jei
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jiab
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unsika.ac.id/index.php/jurnalilmiahhukumdejure
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/merpati/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/spektrum
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jits
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jikh
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/pariwisata
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/kajianbali
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jchem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmhu
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmbk
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jumpa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmat
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jpi
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jpfa/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jppipa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jptt
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.uii.ac.id/index.php/jstl
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.uii.ac.id/index.php/jsb
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jsn
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://teknosi.fti.unand.ac.id
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jum
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jvet
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/kamchatka
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/kerthapatrika/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.ekja.org'
+",https://www.ekja.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://latrama.fcpolit.unr.edu.ar/index.php/trama
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'llt.msu.edu'
+",https://llt.msu.edu/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.lajss.org/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/lep/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/languange
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/linguistika
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/lontar
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/mclm
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/mip
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jte
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://koomeshjournal.semums.ac.ir
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/matraga/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/pangan
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/medicina
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/memorabilia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/metamorfosa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://mda.gesis.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/mneme
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://edu.uhk.cz/africa/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://wciom.com/index.php?id=141
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/nc
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.nordicwittgensteinreview.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/normas/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/nar
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ofid
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/opsis
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/omcr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/pastura/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/pauta
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/fef/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/pem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/periferia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/pat/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/index.php/philosophos
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/piramida
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uph.edu/index.php/pji
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/praxiseducativa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/principios/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ptep
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/phpma
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/publicum/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/qfilologia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/qdfed/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/qfilosofia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ipu.hr/section/en/51/radovi-instituta-za-povijest-umjetnosti
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.asjp.cerist.dz/en/presentationrevue/293
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/reec/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/rb
+"Error in curl::curl_fetch_memory(url, handle = handle): error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+",https://regionysociedad.colson.edu.mx:8085/index.php/rys/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://portalderevistas.ufv.es/relectiones
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/relieve/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.library.carleton.ca/index.php/rera
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.pucpr.br/index.php/cienciaanimal/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.periodicos.ufrn.br/index.php/ambiente/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/odontologia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: self signed certificate in certificate chain
+",https://periodicos.pf.gov.br/index.php/rbcp/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/revsalud
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/constituicaoegarantiadedireitos
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/revfd/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/economicas
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/rdc/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.pucpr.br/index.php/direitoeconomico/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/economia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.publius.us.es/ojs/index.php/rea/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/rfptd/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'revistas.ufg.emnuvens.com.br'
+",https://revistas.ufg.emnuvens.com.br/iptsp
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/turismocontemporaneo
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/revistaceaju/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://proxy.furb.br/ojs/index.php/dynamis/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.periodicos.ufrn.br/educacaoemquestao/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/redp/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/emancipacao
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/enfermagem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.eniac.com.br/index.php/eniacpesquisa/index;
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/sociojuridicos
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.publius.us.es/ojs/index.php/fuentes/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/humanidades/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.webs.ulpgc.es/riped/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/riae
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/ric
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/rlagg
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/odisseia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.paho.org/journal/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/fisioterapia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/sv
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/psicologia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/quaestioiuris/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/sustinere
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/tamoios
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/wimblu
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/?journal=remarem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/rheumap
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://rince.unlam.edu.ar/home.php?idpage=11&idioma=1
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ruang
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.rjoas.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/saguntum/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.smj.org.sa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/scripta/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/sexualidadsaludysociedad/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/sig/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/simbiosis
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/scan
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/fchf/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/soletras
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ejournal.kemsos.go.id/index.php/sosiokonsepsia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/sport
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://e-journal.umaha.ac.id/index.php/teknika
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/tp/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/territorios/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/tirant/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.library.ubc.ca/index.php/tci/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.tijdschriftstudies.nl'
+",https://www.tijdschriftstudies.nl/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ucuenca.edu.ec/ojs/index.php/tsantsa/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ujlc
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/empresa/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ve
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/visual/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jour.isras.ru/index.php/vlast/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://vestnik.szd.si/index.php/zdravvest
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/zibaldone/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://vestnik-isras.ru/en/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.cito-vestnik.ru'
+",https://www.cito-vestnik.ru/jour
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/attic/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/acdi
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://www.ufrr.br/revista/index.php/agroambiente
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/agrotrop
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/aj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jie/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/anidip/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/aobpla
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://botany.org/apps/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/index.php?journal=ajees&page=index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.publius.us.es/ojs/index.php/araucaria/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/atelie/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.usfq.edu.ec/index.php/avances
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/apl
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs-o.library.ubc.ca/index.php/bctj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/bibliocanto
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/biohorizons
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal-biotika.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/index.php/bgg
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/medicine
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/buletinfisika
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/bse
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/buletinvet
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/cdf
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/cadest/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.cadernos.prodisa.fiocruz.br/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/cakra
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://cjdr.ir/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://cjes.guilan.ac.ir/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/childhood/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/vet/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ce
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ckj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://portalrevistas.ucb.br/index.php/rceucb
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/conphys
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://cefd.uv.es
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/cdn
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/cz
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/database
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uph.edu/index.php/djm
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/desafios/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.unijui.edu.br/index.php/desenvolvimentoemquestao/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jur.puc-rio.br/revistades/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/disertaciones/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/dnaresearch
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.echorespract.com/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://est.cmq.edu.mx/index.php/est/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.uii.ac.id/index.php/jep
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ecotrophic
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ecs
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/eol
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/eot
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/akuntansi
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/kajian
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/manajemen
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/mtk
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/eum
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jurnal.uii.ac.id/index.php/eksakta
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/revistaempauta
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.endocrineconnections.com/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.edmcasereports.com/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/eep
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://read.dukeupress.edu/environmental-humanities
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://portalrevistas.ucb.br/index.php/esf/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ucuenca.edu.ec/ojs/index.php/estoa/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://econeurasia.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ehjcr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ejobsat.cz/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/emph
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/fqs
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/foroele
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/gastro
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.gi-intervention.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/gbe
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/geouerj
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.geriatric-care.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/gigascience
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.library.ubc.ca/index.php/hpsj/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/historia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ehps-net.eu/journal
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/hropen
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/imv
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ijog.bgl.esdm.go.id
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://itidjournal.org/itid
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jurnalmahasiswa.unesa.ac.id/index.php/inovasi-fisika-indonesia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/interacao
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ijlct
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ijnp
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jipm.irandoc.ac.ir/index.php?slc_lang=en&sid=1
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'ijcpe.edu.iq'
+",https://ijcpe.edu.iq/index.php/main
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/ritref/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jamiaopen
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jbn
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jeten-online.org/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jncics
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uph.edu/index.php/johme
+"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.jasstudies.com port 443: Connection refused
+",https://www.jasstudies.com/anasayfa.aspx
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jart.guilan.ac.ir/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journals.uis.no/index.php/jcsw
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/cybersecurity
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://edu.msu.ac.th/journal
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jear.it
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jhps
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jhseonline.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jinsectscience
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/integrablesystems
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jipm
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jlb
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jla
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmas
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jrr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/jse
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jscr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jcag
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jes
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/jue
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/?journal=jwes
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/?journal=jowset
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jp
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/bio
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jurnal.isi-ska.ac.id/index.php/capture/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jekt
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jepk
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.jurnalet.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jei
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jiab
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unsika.ac.id/index.php/jurnalilmiahhukumdejure
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/merpati/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/spektrum
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jits
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jikh
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/pariwisata
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/kajianbali
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jchem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmhu
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmbk
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jumpa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jmat
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jpi
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jpfa/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jppipa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.unesa.ac.id/index.php/jptt
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.uii.ac.id/index.php/jstl
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://journal.uii.ac.id/index.php/jsb
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jsn
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://teknosi.fti.unand.ac.id
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jum
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jvet
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/kamchatka
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/kerthapatrika/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.ekja.org'
+",https://www.ekja.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://latrama.fcpolit.unr.edu.ar/index.php/trama
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'llt.msu.edu'
+",https://llt.msu.edu/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.lajss.org/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/lep/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/languange
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/linguistika
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/lontar
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/mclm
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/mip
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/jte
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://koomeshjournal.semums.ac.ir
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/matraga/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/pangan
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/medicina
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/memorabilia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/metamorfosa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://mda.gesis.org
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/mneme
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://edu.uhk.cz/africa/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://wciom.com/index.php?id=141
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/nc
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.nordicwittgensteinreview.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/normas/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/nar
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ofid
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/opsis
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/omcr
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/pastura/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/pauta
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/fef/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/pem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/periferia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/pat/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.ufg.br/index.php/philosophos
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/piramida
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uph.edu/index.php/pji
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/praxiseducativa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/principios/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ptep
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/phpma
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/publicum/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/qfilologia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/qdfed/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/qfilosofia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ipu.hr/section/en/51/radovi-instituta-za-povijest-umjetnosti
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.asjp.cerist.dz/en/presentationrevue/293
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/reec/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/rb
+"Error in curl::curl_fetch_memory(url, handle = handle): error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+",https://regionysociedad.colson.edu.mx:8085/index.php/rys/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://portalderevistas.ufv.es/relectiones
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/relieve/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.library.carleton.ca/index.php/rera
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.pucpr.br/index.php/cienciaanimal/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.periodicos.ufrn.br/index.php/ambiente/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/odontologia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: self signed certificate in certificate chain
+",https://periodicos.pf.gov.br/index.php/rbcp/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/revsalud
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/constituicaoegarantiadedireitos
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/revfd/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/economicas
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/rdc/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.pucpr.br/index.php/direitoeconomico/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/economia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.publius.us.es/ojs/index.php/rea/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/rfptd/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'revistas.ufg.emnuvens.com.br'
+",https://revistas.ufg.emnuvens.com.br/iptsp
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/turismocontemporaneo
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/revistaceaju/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://proxy.furb.br/ojs/index.php/dynamis/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.periodicos.ufrn.br/educacaoemquestao/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/redp/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/emancipacao
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/enfermagem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.eniac.com.br/index.php/eniacpesquisa/index;
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/sociojuridicos
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",https://ojs.publius.us.es/ojs/index.php/fuentes/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/humanidades/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.webs.ulpgc.es/riped/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/riae
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/ric
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/rlagg
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://periodicos.ufrn.br/odisseia/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.paho.org/journal/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/fisioterapia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/sv
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www5.bahiana.edu.br/index.php/psicologia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/quaestioiuris/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/sustinere
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/tamoios
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.revistas.ucr.ac.cr'
+",https://www.revistas.ucr.ac.cr/index.php/wimblu
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revues.imist.ma/?journal=remarem
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/rheumap
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://rince.unlam.edu.ar/home.php?idpage=11&idioma=1
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ruang
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.rjoas.com
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/saguntum/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.smj.org.sa
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/scripta/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/sexualidadsaludysociedad/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/sig/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/simbiosis
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/scan
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/fchf/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.e-publicacoes.uerj.br/index.php/soletras
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ejournal.kemsos.go.id/index.php/sosiokonsepsia
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/sport
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://e-journal.umaha.ac.id/index.php/teknika
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas2.uepg.br/index.php/tp/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/territorios/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/tirant/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.library.ubc.ca/index.php/tci/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.tijdschriftstudies.nl'
+",https://www.tijdschriftstudies.nl/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.ucuenca.edu.ec/ojs/index.php/tsantsa/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.unud.ac.id/index.php/ujlc
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://revistas.urosario.edu.co/index.php/empresa/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+",https://academic.oup.com/ve
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://www.revistas.ufg.br/index.php/visual/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://jour.isras.ru/index.php/vlast/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://vestnik.szd.si/index.php/zdravvest
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://ojs.uv.es/index.php/zibaldone/index
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",https://vestnik-isras.ru/en/
+"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.cito-vestnik.ru'
+",https://www.cito-vestnik.ru/jour

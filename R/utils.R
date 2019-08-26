@@ -13,3 +13,14 @@ jn_status <- function(u) {
     stop
   readr::write_csv(header_df, "data/jn_status.csv", append = TRUE)
 }
+
+
+jn_status_retry <- function(u) {
+  req <- httr::RETRY("GET", u)
+  out <- httr::http_status(req)
+  header_df <- dplyr::bind_cols(url = u, dplyr::bind_rows(out))
+  if (is.null(header_df))
+    stop
+  readr::write_csv(header_df, "data/jn_status_redo.csv", append = TRUE)
+}
+
